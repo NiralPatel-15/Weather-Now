@@ -2,7 +2,7 @@
 
 > A sleek and modern Android weather forecast application that shows current weather conditions and 5-day forecasts using the OpenWeatherMap API. Built with Java, Retrofit, Glide, and modern Android architecture.
 
-![WeatherNow Banner](https://via.placeholder.com/800x300?text=WeatherNow+Android+App)
+![WeatherNow Banner]([https://via.placeholder.com/800x300?text=WeatherNow+Android+App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fweather-banner&psig=AOvVaw1KnzGpDEUOwz_EVjlSn_07&ust=1750599243095000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiM8MDQgo4DFQAAAAAdAAAAABAE))
 
 ---
 
@@ -47,11 +47,7 @@
 
 ---
 
-## 📷 Screenshots
 
-| 📍 Location & Weather | 📅 5-Day Forecast |
-|------------------------|------------------|
-| ![Main](https://via.placeholder.com/300x600) | ![Forecast](https://via.placeholder.com/300x600) |
 
 ---
 
