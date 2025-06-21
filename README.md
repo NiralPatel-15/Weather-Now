@@ -44,3 +44,29 @@
 │ └── item_forecast.xml
 ├── AndroidManifest.xml
 └── build.gradle
+
+---
+
+## 📷 Screenshots
+
+| 📍 Location & Weather | 📅 5-Day Forecast |
+|------------------------|------------------|
+| ![Main](https://via.placeholder.com/300x600) | ![Forecast](https://via.placeholder.com/300x600) |
+
+---
+
+## 🧪 Getting Started
+
+### 📲 Prerequisites
+- Android Studio (latest version)
+- Android SDK (API 35+ recommended)
+- OpenWeatherMap API key: [Get one here](https://openweathermap.org/api)
+
+---
+
+### 🛠 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/weathernow.git
+   cd weathernow
