@@ -32,3 +32,15 @@
 
 ## 📦 Project Structure
 
+📁 WeatherNow
+├── MainActivity.java
+├── LocationHelper.java
+├── WeatherService.java
+├── ForecastAdapter.java
+├── ForecastData.java
+├── WeatherData.java
+├── layout/
+│ ├── activity_main.xml
+│ └── item_forecast.xml
+├── AndroidManifest.xml
+└── build.gradle
