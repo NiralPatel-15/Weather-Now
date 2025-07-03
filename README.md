@@ -5,6 +5,19 @@
 
 ---
 
+## 📱 App Screenshots
+
+### 🌤️ Main Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba462126-726c-41fd-8a6f-cf516601d9eb"
+       alt="Main Screen"
+       width="400"/>
+</p>
+
+
+
+---
 ## 🚀 Features
 
 ✅ Get real-time weather for your **current location**  
@@ -28,10 +41,6 @@
 - **AndroidX** Components
 
 ---
-
-# 🌦️ WeatherNow
-
-WeatherNow is an Android weather forecast app that displays a 1-month forecast with a horizontal scroll layout.
 
 ## 📂 Project Structure
 
