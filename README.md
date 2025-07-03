@@ -30,19 +30,37 @@
 ---
 
 ## 📦 Project Structure
+📁 app/
+ └── 📁 src/
+      └── 📁 main/
+           ├── 📁 java/
+           │    └── 📁 com/yourpackagename/weathernow/
+           │         ├── 📁 data/           # Models (POJOs)
+           │         │     ├── WeatherData.java
+           │         │     ├── ForecastData.java
+           │         │
+           │         ├── 📁 network/        # API helpers/services
+           │         │     ├── WeatherService.java
+           │         │
+           │         ├── 📁 adapter/        # RecyclerView adapters
+           │         │     ├── ForecastAdapter.java
+           │         │
+           │         ├── 📁 util/           # Utility/helper classes
+           │         │     ├── LocationHelper.java
+           │         │
+           │         └── MainActivity.java  # Main Activity
+           │
+           ├── 📁 res/
+           │    ├── 📁 layout/
+           │    │     ├── activity_main.xml
+           │    │     ├── item_forecast.xml
+           │    │
+           │    ├── 📁 drawable/           # Icons/images
+           │    ├── 📁 values/             # strings.xml, colors.xml, themes.xml
+           │
+           ├── AndroidManifest.xml
+           ├── build.gradle
 
-📁 WeatherNow
-├── MainActivity.java
-├── LocationHelper.java
-├── WeatherService.java
-├── ForecastAdapter.java
-├── ForecastData.java
-├── WeatherData.java
-├── layout/
-│ ├── activity_main.xml
-│ └── item_forecast.xml
-├── AndroidManifest.xml
-└── build.gradle
 
 ---
 
