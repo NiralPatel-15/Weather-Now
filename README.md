@@ -29,37 +29,34 @@
 
 ---
 
-## 📦 Project Structure
-📁 app/
- └── 📁 src/
-      └── 📁 main/
-           ├── 📁 java/
-           │    └── 📁 com/yourpackagename/weathernow/
-           │         ├── 📁 data/           # Models (POJOs)
-           │         │     ├── WeatherData.java
-           │         │     ├── ForecastData.java
-           │         │
-           │         ├── 📁 network/        # API helpers/services
-           │         │     ├── WeatherService.java
-           │         │
-           │         ├── 📁 adapter/        # RecyclerView adapters
-           │         │     ├── ForecastAdapter.java
-           │         │
-           │         ├── 📁 util/           # Utility/helper classes
-           │         │     ├── LocationHelper.java
-           │         │
-           │         └── MainActivity.java  # Main Activity
-           │
-           ├── 📁 res/
-           │    ├── 📁 layout/
-           │    │     ├── activity_main.xml
-           │    │     ├── item_forecast.xml
-           │    │
-           │    ├── 📁 drawable/           # Icons/images
-           │    ├── 📁 values/             # strings.xml, colors.xml, themes.xml
-           │
-           ├── AndroidManifest.xml
-           ├── build.gradle
+# 🌦️ WeatherNow
+
+WeatherNow is an Android weather forecast app that displays a 1-month forecast with a horizontal scroll layout.
+
+## 📂 Project Structure
+
+- WeatherNow/
+  - app/
+    - build.gradle
+    - src/
+      - main/
+        - java/com/yourpackagename/weathernow/
+          - MainActivity.java
+          - LocationHelper.java
+          - WeatherService.java
+          - ForecastAdapter.java
+          - ForecastData.java
+          - WeatherData.java
+        - res/
+          - layout/
+            - activity_main.xml
+            - item_forecast.xml
+        - AndroidManifest.xml
+  - build.gradle  (Project-level)
+  - settings.gradle
+  - .gitignore
+  - README.md
+
 
 
 ---
