@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ba462126-726c-41fd-8a6f-cf516601d9eb"
        alt="Main Screen"
-       width="400"/>
+       width="250"/>
 </p>
 
 
