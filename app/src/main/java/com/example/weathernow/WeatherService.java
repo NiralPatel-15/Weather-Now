@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class WeatherService {
 
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/";
-    private static final String API_KEY = "7e83b5350d45a7012b9908cfb595ee29";
+    private static final String API_KEY = "your_API_KEY";
 
     private final WeatherApi weatherApi;
 
