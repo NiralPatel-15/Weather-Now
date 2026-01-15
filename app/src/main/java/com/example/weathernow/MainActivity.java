@@ -30,7 +30,7 @@ import retrofit2.Response;
 public class MainActivity extends AppCompatActivity {
 
     private static final int LOCATION_PERMISSION_CODE = 101;
-    private static final String API_KEY = "7e83b5350d45a7012b9908cfb595ee29"; // Replace with your OpenWeatherMap API key
+    private static final String API_KEY = "YOUR_API_KEY"; // Replace with your OpenWeatherMap API key
 
     private TextView cityNameText, currentTempTextView, locationTextView,
             weatherConditionTextView, feelsLikeTextView, humidityTextView,
